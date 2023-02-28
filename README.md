@@ -1,2 +1,2 @@
 # OnlineExamination
-I developed this thsi using java programming
+I developed this using java programming
